@@ -40,6 +40,7 @@ To build strong expertise in RTL Design and Verification while developing indust
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_jayjain23_?igsh=MXB1ZDR6ZnQwczh2MQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-jain-9a0ba6286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayjain2305@gmail.com)
+[![HDLBits](https://img.shields.io/badge/HDLBits-0A0A0A?logo=v&logoColor=orange)](https://hdlbits.01xz.net/wiki/Special:VlgStats/D0DE38F74AA13E71)
 
 ---
 
