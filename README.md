@@ -1,4 +1,4 @@
-# 💫 Hii Jay Jain here!:
+# 💫 Hii Jay Jain here!
 
 ## About Me
 
