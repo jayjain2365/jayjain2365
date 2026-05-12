@@ -21,6 +21,9 @@ Currently focused on building practical projects in Verilog and SystemVerilog, i
 - GTKWave
 - Vivado
 - ModelSim
+- Cadence Virtuoso
+- EDA playground
+- microcontrollers (Arduino, ESP8266, ESP32) 
 
 ### Current Projects
 - 8-bit RISC CPU
