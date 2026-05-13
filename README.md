@@ -65,6 +65,8 @@ To build strong expertise in RTL Design and Verification while developing indust
 ![Vivado](https://img.shields.io/badge/Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-00427E?style=for-the-badge&logo=intel&logoColor=white)
 ![GTKWave](https://img.shields.io/badge/GTKWave-4A90D9?style=for-the-badge&logoColor=white)
+![Cadence Virtuoso](https://img.shields.io/badge/Cadence%20Virtuoso-FF0000?style=for-the-badge&logoColor=white)
+![EDA Playground](https://img.shields.io/badge/EDA%20Playground-0055A5?style=for-the-badge&logoColor=white)
 
 **Programming Languages**
 
